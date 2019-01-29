@@ -22,10 +22,10 @@ spacing: 10
 shuffle: false
 
 # Integer: Number of columns for square or columns
-columns: 4
+columns: 5
 
 # Integer: Max height for rows
-max_height: 400
+max_height: 700
 
 # Handle
 instagram: nadi_wil
@@ -55,7 +55,7 @@ category_dir: /
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
 # Example, you must use http://localhost:4000/path/to/blog
 #baseurl: /path/to/blog
-baseurl: /
+baseurl: /gallery
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 # url: http://andyzhang.net/gallery
