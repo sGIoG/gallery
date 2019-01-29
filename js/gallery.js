@@ -133,7 +133,7 @@ class VerticalRenderer extends Renderer {
    */
   createPhotoElement(photo, width, config) {
     return this.createImageElement(photo,
-                                   px(width + (math.random() *10)),
+                                   px(width + (math.random())),
                                    px(photo.height(width)),
                                    px(config.spacing));
   }
