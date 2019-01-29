@@ -25,7 +25,7 @@ shuffle: false
 columns: 5
 
 # Integer: Max height for rows
-max_height: 700
+max_height: 200
 
 # Handle
 instagram: nadi_wil
